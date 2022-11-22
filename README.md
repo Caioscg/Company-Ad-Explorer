@@ -29,7 +29,7 @@ This project was developed with the following technologies:
 
 ## 🌐 Site
 
-You can check the project with this link: https://jogos-da-copa-qatar-2022.vercel.app
+You can check the project with this link: https://company-ad-explorer.vercel.app
 
 ## :memo: License
 
